@@ -12,8 +12,8 @@
 <h1 style="text-align:center;">به نام خدا</h1>
 <pre style="text-align:center;">
 انگیزه نامه 
-نغمه ترکی
-متولد 1377/01/13
+نغمه ترکی  
+ 1363/04/05
 </pre>
 
 <hr>
